@@ -57,7 +57,7 @@ less.render(lessString, { plugins: [CubehelixPlugin] })
 
 ## Browser usage
 
-Download [index.js](https://github.com/bassjobsen/less-plugin-cubehelix/blob/master/index.js) and use it as follow:
+Download [index.js](https://github.com/bassjobsen/less-plugin-cubehelix/blob/master/index.js) and use it as follows:
 
 ```html
 <script src="index.js"></script>
